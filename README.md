@@ -1,6 +1,6 @@
 # Todo List
-This project was built as part of Colt Steele's Web Developer Bootcamp course.
+This application was built as part of Colt Steele's Web Developer Bootcamp course.
 
-HTML, CSS & JavaScript used. A simple To-do List application that allows you to add new tasks, cross completed tasks off and completely delete them from the list when they are no longer needed. Clicking the icon in the title bar hides the text box for a minimalist look.
+A simple To-do List application that allows you to add new tasks, cross completed tasks off and completely delete them from the list when they are no longer needed. Clicking the pen and paper icon in the title bar hides the text box for a minimal look.
 
-Use this link to view the entire site - https://wwilsonnorth.github.io/Todo-List/
+Download and run on your machine to try yourself or use this link to view - https://wwilsonnorth.github.io/Todo-List/
